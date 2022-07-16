@@ -7,4 +7,4 @@ The project has 4 ultrasonic sensor and a Raspberry Pi as the processing unit. I
 
 ![alt text](https://github.com/Patil-Vinay/Accident-Prevention-System/blob/main/Final%20Product.png?raw=true)
 
-
+![alt text](https://github.com/Patil-Vinay/Accident-Prevention-System/blob/main/Result%202.png?raw=true)
