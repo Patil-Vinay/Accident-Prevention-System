@@ -4,3 +4,7 @@ Traveling, which was once a necessary part of human life, has now become perilou
 To address this issue, we developed an "Accident Prevention System" with Smart Road Safety, which uses an ultrasonic sensor to identify the danger distance and inform the driver before a collision occurs. 
 
 The project has 4 ultrasonic sensor and a Raspberry Pi as the processing unit. It primarily focuses on preventing accidents by recognizing them before they occur.
+
+![alt text](https://github.com/Patil-Vinay/Accident-Prevention-System/blob/main/Final%20Product.png?raw=true)
+
+
