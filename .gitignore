@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# full size phone photos, smaller copies are in images/
+Result.png
+Result 2.png
+*.HEIC
